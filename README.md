@@ -5,5 +5,7 @@ A classic 2D retro arcade game where the player controls a snake. The objective 
 #GAMEPLAY MECHANICS:
 
 Controls : Use your keyboard's arrow keys or WASD to change the snake direction.
+
 Scoring : Each apple eaten increases your score and makes the snake grow longer.
+
 Game Over : The game ends if the snake collides into its own body.
